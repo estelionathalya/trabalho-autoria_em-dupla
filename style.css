@@ -1,0 +1,109 @@
+body {
+    background: linear-gradient(
+        to right,
+        #740001,
+        #D3A625,
+        #1A472A,
+        #5D5D5D,
+        #0E1A40,
+        #946B2D
+    );
+}
+
+
+
+h1 {
+    text-align: center;
+    color: #D3A625;
+    font-size: 60px;
+
+}
+
+h2 {
+   color: #D3A625;
+}
+
+
+
+p {
+    text-align: center;
+    color: white;
+     font-size: 30px;
+
+
+}
+
+nav {
+    text-align: center;
+}
+
+nav a {
+    color: #D3A625;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+
+header {
+    background-color: #131313;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    margin: 40px;
+    border-radius: 30px;
+}
+
+
+header h1 {
+    color: #e8bd55;
+}
+
+
+header p {
+    color: white;
+}
+
+
+header a {
+    color: #e8bd55;
+}
+
+
+header ul {
+            list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+
+header li {
+    margin: 0;
+}
+
+header a[href="#grifinoria"] {
+    color: #ae0001;
+}
+
+
+header a[href="#sonserina"] {
+    color: #2a9d55;
+}
+
+
+header a[href="#corvinal"] {
+    color: #4a90e2;
+}
+
+
+header a[href="#lufalufa"] {
+    color: #f0c420;
+}
+
+
+
